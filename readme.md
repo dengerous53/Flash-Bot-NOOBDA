@@ -44,7 +44,7 @@
 <h4> So Follow Above Steps 👆 and then deploy other wise bot won't work</h4>
 
 Press the below button to Fast deploy on Heroku/Raiwlay
-Either you could locally host or deploy on [Heroku](https://heroku.com)
+Either you could locally host or deploy on [Heroku](https://heroku.com/deploy?template=https://github.com/dengerous53/filestreambot2)
 ### 💜 Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/)
